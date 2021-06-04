@@ -1,0 +1,1 @@
+Voron_Afterburner_Mk8_Hotend (Ender3/5/cr10 stock hotend) by mmmta on Thingiverse: https://www.thingiverse.com/thing:4723053
